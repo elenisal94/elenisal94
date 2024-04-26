@@ -1,12 +1,11 @@
-Hello there 👋
-A Full-Stack Developer by day ☼ and novel writer by night ☾
-Full-Stack Developer with strong Customer Experience background
-Host/Organizing Laracon EU;
+Hello there 👋 <br>
+A Full-Stack Developer by day ☀️ and novel writer by night ☾ <br>
+Full-Stack Developer with strong Customer Experience background <br>
 
-⚙️ I use daily: .js, .html, .css, Node, React, Mongo
-🌍 I'm mostly active within the Javascript Community
-💬 ping me about React, customer experience, new project ideas
+⚙️ I use daily: .js, .html, .css, Node, React, Mongo <br>
+🌍 I'm mostly active within the Javascript Community <br>
+💬 ping me about React, customer experience, new project ideas <br>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzUyNjg5bWRvMjVyeWFraTQ0MHU0djdwYmVsZTcwZmFvazI5cXBibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MeJgB3yMMwIaHmKD4z/giphy.gif" width="100"/>
 </div>
