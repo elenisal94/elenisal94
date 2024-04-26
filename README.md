@@ -1,16 +1,12 @@
-### Hi there 👋
+Hello there 👋
+A Full-Stack Developer by day ☼ and novel writer by night ☾
+Full-Stack Developer with strong Customer Experience background
+Host/Organizing Laracon EU;
 
-<!--
-**elenisal94/elenisal94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚙️ I use daily: .js, .html, .css, Node, React, Mongo
+🌍 I'm mostly active within the Javascript Community
+💬 ping me about React, customer experience, new project ideas
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
