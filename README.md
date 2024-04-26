@@ -1,5 +1,5 @@
 Hello there 👋 <br>
-A Full-Stack Developer by day ☀️ and novel writer by night ☾ <br>
+A Full-Stack Developer by day ☀️ and novel writer by night 🌙 <br>
 Full-Stack Developer with strong Customer Experience background <br>
 
 ⚙️ I use daily: .js, .html, .css, Node, React, Mongo <br>
