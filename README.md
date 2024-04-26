@@ -2,9 +2,9 @@ Hello there 👋 <br>
 A Full-Stack Developer by day ☀️ and novel writer by night 🌙 <br>
 Full-Stack Developer with strong Customer Experience/Success background ❤️ <br>
 
-⚙️ I use daily: .js, .html, .css, Node, React, Mongo <br>
-🌍 I'm mostly active within the Javascript Community <br>
-I speak English🇬🇧, Spanish🇪🇸 and Greek🇬🇷 <br>
+⚙️ I use daily: Javascript, HTML, CSS, Node, React, Mongo <br>
+🚀 I'm mostly active within the Javascript Community <br>
+🌍 I speak English🇬🇧, Spanish🇪🇸 and Greek🇬🇷 <br>
 💬 ping me about React, customer experience and world food experiences <br>
 
 <div id="header" align="center">
