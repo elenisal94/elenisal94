@@ -1,6 +1,5 @@
 Hello there 👋 <br>
 A Full-Stack Developer by day ☀️ and novel writer by night 🌙 <br>
-Full-Stack Developer with strong Customer Experience/Success background ❤️ <br>
 
 ⚙️ I use daily: Javascript, HTML, CSS, Node, React, Mongo <br>
 🚀 I'm mostly active within the Javascript Community <br>
