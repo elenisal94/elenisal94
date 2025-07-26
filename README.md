@@ -51,7 +51,7 @@ Built 16 automated workflows delivering 700+ customer data records. Served as th
 **TypeScript Developer** @ Gleap  
 Closed 90+ frontend tickets in 4 months, focusing on UI bugs, responsive design, and user experience improvements. Implemented dark mode and optimized components for cross-device compatibility in an Agile environment.
 
-**Hubspot Process Owner** @ Commonplace Digital  
+**Process Automation Specialist** @ Commonplace Digital  
 Developed 100+ automation workflows that saved £150k annually. Migrated CX operations to HubSpot CRM and partnered with cross-functional teams to ensure adoption and data integrity.
 
 ---
@@ -67,12 +67,12 @@ Platform for discovering and activating "third spaces" - the community corners b
 
 **My role:** Frontend development and API integration, designing the connection points between React frontend and Flask backend.
 
-### [Tenant CRM Platform](https://tenantcrmproject.co.uk/)
+### [Tenant CRM Platform](https://github.com/elenisal94/Flatmates-crm)
 *Node.js • React • MongoDB • AWS*
 
 Full-stack CRM designed for landlords managing multiple properties. Features tenant management, payment tracking, task organization, and real-time statistics. Deployed on AWS with comprehensive CRUD operations and responsive design.
 
-### [Recipe Paradise](https://eleni-recipe-paradise.onrender.com/)
+### [Recipe Paradise](https://github.com/elenisal94/Recipe-app)
 *Vanilla JavaScript • Node.js • Express*
 
 Recipe-sharing platform with user authentication, image uploads via Cloudinary, and location tagging through Mapbox integration. Built to explore full-stack fundamentals and session management.
