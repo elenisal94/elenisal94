@@ -12,7 +12,7 @@ I specialize in **web development** and **no-code automations** – finding the 
 
 ## 🔧 Current Project
 
-**🧠 Job Search AI Assistant** 
+**🧠 [Job Search AI Assistant](https://github.com/elenisal94/job-search-ai)** 
 
 AI has complicated the job search process significantly over the past few years. As someone currently navigating this space for coding opportunities, I decided to build a solution that leverages AI to streamline the process rather than complicate it further.
 
