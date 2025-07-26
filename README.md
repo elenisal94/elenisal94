@@ -1,95 +1,111 @@
-# Hi, I'm Eleni 👋
+# Hey, I'm Eleni 👋
 
-**Software Engineer** building scalable solutions that drive real business value.
+**Software Engineer** with an unusual path: anthropology → customer experience → code.
 
-From React bugs to CRM workflows in SaaS environments, I deliver fast, effective solutions: **90+ tickets closed**, **£150k saved through automation**, and an average customer satisfaction score of **9/10**. I balance engineering precision with a strong background in customer experience to build technology that solves real problems.
+I discovered programming while working at a scaling startup, where exposure to simple problem-solving and automation sparked something. That led me to start seriously learning web development 1.5 years ago through an online bootcamp, and the passion just grew from there. Recently placed 3rd in a 24-hour hackathon, building a community platform for discovering "third spaces" in cities.
+
+My background in anthropology taught me to understand users and systems from different perspectives. My customer experience work showed me what good software looks like to real people. Now I get to combine those insights with technical skills to build meaningful solutions.
+
+I specialize in **web development** and **no-code automations** – finding the right tool for each problem.
 
 ---
 
-## 🚀 What I'm Working On
+## 🔧 Current Project
 
-**🧠 Job Search AI Assistant** *(in progress)*  
-An intelligent assistant that automates and streamlines job applications using AI.
+**🧠 Job Search AI Assistant** 
+
+AI has complicated the job search process significantly over the past few years. As someone currently navigating this space for coding opportunities, I decided to build a solution that leverages AI to streamline the process rather than complicate it further.
 
 **Features:**
-- **Job Matching** - Uses APIs like GitHub Jobs, Reed.co.uk, and Indeed to fetch relevant listings
-- **AI Cover Letters** - LangChain + LLMs generate personalized, compelling cover letters
-- **Smart CV Matching** - RAG with CV + job descriptions for better role alignment
-- **LinkedIn Integration** - OAuth connectivity for seamless profile data integration
+- **Job matching** using GitHub Jobs, Reed.co.uk, and Indeed APIs
+- **AI-generated cover letters** via LangChain + LLMs for personalized applications
+- **CV-job matching** with RAG to better understand role alignment
+- **LinkedIn integration** to streamline profile data and application processes
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-**Languages & Frameworks**
+**Primary stack:**
 ```
-JavaScript  TypeScript  Python  Node.js  Express.js  React.js  Vue.js  Next.js
-```
-
-**Databases & Tools**
-```
-MongoDB  SQL  NoSQL  REST APIs  Git  AWS EC2  MobX  FastAPI  Tailwind CSS
+JavaScript • TypeScript • Python • React • Node.js • Express • MongoDB
 ```
 
-**Platforms & Integration**
+**Automation & integration:**
 ```
-WordPress  HubSpot  Zapier  Baserow  Plain  Linear  Confluence
+HubSpot • Zapier • Baserow • Plain • Linear • REST APIs
+```
+
+**Deployment & tools:**
+```
+AWS EC2 • Git • Vue.js • Next.js • FastAPI • Tailwind CSS
 ```
 
 ---
 
 ## 💼 Recent Experience
 
-**Freelance Solutions Engineer** @ Speek Health *(2025)*  
-- Designed scalable relational database using Baserow
-- Built 16 automated workflows delivering 700+ customer data records
-- Primary technical contact translating business requirements into automation solutions
+**Freelance Solutions Engineer** @ Speek Health  
+Built 16 automated workflows delivering 700+ customer data records. Served as the technical bridge between business requirements and implementation, designing scalable solutions using Baserow and multiple REST APIs.
 
-**TypeScript Developer** @ Gleap GmbH *(2024)*  
-- Closed 90+ frontend tickets in 4 months using TypeScript, React, CSS
-- Implemented dark mode and optimized cross-device UX
-- Participated in Agile development with code reviews and production deployments
+**TypeScript Developer** @ Gleap  
+Closed 90+ frontend tickets in 4 months, focusing on UI bugs, responsive design, and user experience improvements. Implemented dark mode and optimized components for cross-device compatibility in an Agile environment.
+
+**Hubspot Process Owner** @ Commonplace Digital  
+Developed 100+ automation workflows that saved £150k annually. Migrated CX operations to HubSpot CRM and partnered with cross-functional teams to ensure adoption and data integrity.
 
 ---
 
-## 🎯 Featured Projects
+## 🚀 Featured Projects
 
-### [Tenant CRM Platform](https://tenantcrmproject.co.uk/) 
-**Node.js • React • MongoDB • AWS EC2**
-- Custom CRM for landlords with tenant management and payment tracking
-- Clean dashboard UI with filtering and aggregated statistics
-- Full CRUD operations for tenants, tasks, bills, and rent payments
+### [Hidden Spaces](https://github.com/elenisal94/huddlehive_muses) 🏆
+*React • TypeScript • Python • Flask | 3rd Place - 24hr Hackathon*
+
+**HuddleHive Women in Tech Hackathon @ Octopus Energy, London**
+
+Platform for discovering and activating "third spaces" - the community corners between home and work where people gather and connect. Built in 24 hours with a focus on bridging the gap between people seeking connection and underused urban spaces.
+
+**My role:** Frontend development and API integration, designing the connection points between React frontend and Flask backend.
+
+### [Tenant CRM Platform](https://tenantcrmproject.co.uk/)
+*Node.js • React • MongoDB • AWS*
+
+Full-stack CRM designed for landlords managing multiple properties. Features tenant management, payment tracking, task organization, and real-time statistics. Deployed on AWS with comprehensive CRUD operations and responsive design.
 
 ### [Recipe Paradise](https://eleni-recipe-paradise.onrender.com/)
-**Vanilla JavaScript • Node.js • Express**
-- Full-stack recipe-sharing app with user authentication
-- Integrated Cloudinary (images) and Mapbox (location tagging)
-- Session management and commenting features
+*Vanilla JavaScript • Node.js • Express*
 
-### [WordPress Site Builder](https://joelbarber.pro/)
-**WordPress • CSS • Custom Plugins**
-- Custom business website with responsive design
-- Integrated Amelia plugin for appointment booking
-- Tailored user experience for barber services
+Recipe-sharing platform with user authentication, image uploads via Cloudinary, and location tagging through Mapbox integration. Built to explore full-stack fundamentals and session management.
+
+### [Custom WordPress Solutions](https://joelbarber.pro/)
+*WordPress • CSS • Plugin Integration*
+
+Custom business website with responsive design and integrated appointment booking system. Focused on user experience optimization and seamless plugin integration.
 
 ---
 
-## 📈 Impact & Results
+## 📊 Impact & Results
 
-- **90+ tickets** closed across frontend development projects
-- **£150k annually** saved through automation workflows
-- **700+ customer records** delivered through API integrations
-- **9/10 average** customer satisfaction score maintained
-- **1,000+ websites** delivered for 80+ government and planning clients
+- **90+ tickets** resolved across frontend development projects
+- **£150k annually** saved through automation implementations
+- **700+ data records** delivered via API integrations and workflows
+- **1.5 years** of focused web development experience
+- **Multiple production applications** deployed and maintained
 
 ---
 
-## 📫 Let's Connect
+## 🎯 What Drives Me
 
-- **Email:** elenisalamouri@gmail.com
-- **Website:** [elenisalamouri.co.uk](https://elenisalamouri.co.uk/)
+I love love building something original or fixing problems through trial and error. There's something incredibly satisfying about taking a complex challenge and breaking it down into manageable pieces, then watching those pieces come together into a working solution.
+
+The speed at which we can develop and iterate now is genuinely exciting – you can move from concept to working prototype faster than ever before.
+
+---
+
+## 📫 Get In Touch
+
+- **Email:** elenisalamouri@gmail.com  
+- **Website:** [elenisalamouri.co.uk](https://elenisalamouri.co.uk/)  
 - **LinkedIn:** [linkedin.com/in/eleni-salamouri](https://www.linkedin.com/in/eleni-salamouri)
 
----
-
-*Building technology that bridges the gap between user needs and business objectives. Always learning, always shipping.* 🚢
+*Open to opportunities where I can dive deep into interesting problems and contribute to building solutions that matter.*
