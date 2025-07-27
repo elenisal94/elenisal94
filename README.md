@@ -26,19 +26,24 @@ AI has complicated the job search process significantly over the past few years.
 
 ## 🛠️ Technical Skills
 
-**Primary stack:**
+**Frontend:**
 ```
-JavaScript • TypeScript • Python • React • Node.js • Express • MongoDB
-```
-
-**Automation & integration:**
-```
-HubSpot • Zapier • Baserow • Plain • Linear • REST APIs
+JavaScript • TypeScript • React • Next.js • HTML • CSS • Tailwind CSS • MUI
 ```
 
-**Deployment & tools:**
+**Backend & Database:**
 ```
-AWS EC2 • Git • Vue.js • Next.js • FastAPI • Tailwind CSS
+Node.js • Express • Python • MongoDB • SQL
+```
+
+**Automation & Integration:**
+```
+HubSpot • Zapier • Baserow • Plain • Linear • REST APIs • NoSQL
+```
+
+**Deployment & Tools:**
+```
+AWS EC2 • Render • Git • Vue.js • FastAPI
 ```
 
 ---
