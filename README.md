@@ -6,7 +6,7 @@ I discovered programming while working at a scaling startup, where exposure to s
 
 My background in anthropology taught me to understand users and systems from different perspectives. My customer experience work showed me what good software looks like to real people. Now I get to combine those insights with technical skills to build meaningful solutions.
 
-I specialize in **web development** and **no-code automations** – finding the right tool for each problem.
+I specialise in **web development** and **no-code automations** – finding the right tool for each problem.
 
 ---
 
@@ -51,7 +51,7 @@ Built 16 automated workflows delivering 700+ customer data records. Served as th
 **TypeScript Developer** @ Gleap  
 Closed 90+ frontend tickets in 4 months, focusing on UI bugs, responsive design, and user experience improvements. Implemented dark mode and optimized components for cross-device compatibility in an Agile environment.
 
-**Process Automation Specialist** @ Commonplace Digital  
+**Hubspot Process Owner** @ Commonplace Digital  
 Developed 100+ automation workflows that saved £150k annually. Migrated CX operations to HubSpot CRM and partnered with cross-functional teams to ensure adoption and data integrity.
 
 ---
@@ -70,7 +70,7 @@ Platform for discovering and activating "third spaces" - the community corners b
 ### [Tenant CRM Platform](https://github.com/elenisal94/Flatmates-crm)
 *Node.js • React • MongoDB • AWS*
 
-Full-stack CRM designed for landlords managing multiple properties. Features tenant management, payment tracking, task organization, and real-time statistics. Deployed on AWS with comprehensive CRUD operations and responsive design.
+Full-stack CRM designed for landlords managing multiple properties. Features tenant management, payment tracking, task organisation, and real-time statistics. Deployed on AWS with comprehensive CRUD operations and responsive design.
 
 ### [Recipe Paradise](https://github.com/elenisal94/Recipe-app)
 *Vanilla JavaScript • Node.js • Express*
@@ -80,7 +80,7 @@ Recipe-sharing platform with user authentication, image uploads via Cloudinary, 
 ### [Custom WordPress Solutions](https://joelbarber.pro/)
 *WordPress • CSS • Plugin Integration*
 
-Custom business website with responsive design and integrated appointment booking system. Focused on user experience optimization and seamless plugin integration.
+Custom business website with responsive design and integrated appointment booking system. Focused on user experience optimisation and seamless plugin integration.
 
 ---
 
