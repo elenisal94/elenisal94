@@ -63,15 +63,6 @@ Developed 100+ automation workflows that saved £150k annually. Migrated CX oper
 
 ## 🚀 Featured Projects
 
-### [Hidden Spaces](https://github.com/elenisal94/huddlehive_muses) 🏆
-*React • TypeScript • Python • Flask | 3rd Place - 24hr Hackathon*
-
-**HuddleHive Women in Tech Hackathon @ Octopus Energy, London**
-
-Platform for discovering and activating "third spaces" - the community corners between home and work where people gather and connect. Built in 24 hours with a focus on bridging the gap between people seeking connection and underused urban spaces.
-
-**My role:** Frontend development and API integration, designing the connection points between React frontend and Flask backend.
-
 ### [Tenant CRM Platform](https://github.com/elenisal94/Flatmates-crm)
 *Node.js • React • MongoDB • AWS*
 
@@ -81,6 +72,15 @@ Full-stack CRM designed for landlords managing multiple properties. Features ten
 *Vanilla JavaScript • Node.js • Express*
 
 Recipe-sharing platform with user authentication, image uploads via Cloudinary, and location tagging through Mapbox integration. Built to explore full-stack fundamentals and session management.
+
+### [Hidden Spaces](https://github.com/elenisal94/huddlehive_muses) 🏆
+*React • TypeScript • Python • Flask | 3rd Place - 24hr Hackathon*
+
+**HuddleHive Women in Tech Hackathon @ Octopus Energy, London**
+
+Platform for discovering and activating "third spaces" - the community corners between home and work where people gather and connect. Built in 24 hours with a focus on bridging the gap between people seeking connection and underused urban spaces.
+
+**My role:** Frontend development and API integration, designing the connection points between React frontend and Flask backend.
 
 ### [Custom WordPress Solutions](https://joelbarber.pro/)
 *WordPress • CSS • Plugin Integration*
