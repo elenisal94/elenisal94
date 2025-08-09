@@ -10,17 +10,9 @@ I specialise in **web development** and **no-code automations** – finding the 
 
 ---
 
-## 🔧 Current Project
+## 🌱 Currently exploring
 
-**⚡ [Job Search AI Assistant](https://github.com/elenisal94/job-search-ai)** 
-
-AI has complicated the job search process significantly over the past few years. As someone currently navigating this space for coding opportunities, I decided to build a solution that leverages AI to streamline the process rather than complicate it further.
-
-**Features:**
-- **Job matching** using GitHub Jobs, Reed.co.uk, and Indeed APIs
-- **AI-generated cover letters** via LangChain + LLMs for personalized applications
-- **CV-job matching** with RAG to better understand role alignment
-- **LinkedIn integration** to streamline profile data and application processes
+AI/ML integration and advanced automation workflows.
 
 ---
 
